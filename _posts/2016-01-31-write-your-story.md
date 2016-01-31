@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Write down the story about how your met immortalize your relationship. '
-datePublished: '2016-01-31T09:36:39.089Z'
-dateModified: '2016-01-31T09:36:23.991Z'
-title: Write your story
+datePublished: '2016-01-31T09:42:54.779Z'
+dateModified: '2016-01-31T09:42:47.017Z'
+title: 'Cheap Date Idea #3 '
 author: []
+sourcePath: _posts/2016-01-31-write-your-story.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-31-write-your-story.md
-published: true
 url: write-your-story/index.html
 _type: Article
 
