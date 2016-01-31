@@ -1,0 +1,28 @@
+name: Cheap Date Idea
+favicon: null
+layout_spectrum: 0.9855991580989212
+typography_spectrum: 0.8834716512355953
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8970488654449582
+  lightness: 0.7429775781929493
+  saturation: 0.4623155246954411
+  rhythmicContrast: 0.012240607757121325
+purpose: []
